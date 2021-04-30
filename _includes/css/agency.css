@@ -284,7 +284,7 @@ header .intro-text {
 }
 
 header .scrim {
-    border-radius: 100%;
+    border-radius: 10%;
     background-color: rgba(0, 0, 0, 0.4);
     box-shadow: 0 0 5rem rgba(0, 0, 0.3);
 }

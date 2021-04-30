@@ -20,22 +20,20 @@ people:
     - title: linkedin
       url: #
 
-- name: Eddy Kuan
-  pic: 2
-  position: Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
 - name: Ian Munge
-  pic: 3
+  pic: 2
   position: dApp Developer
   social:
     - title: github
+      url: #
+
+- name: Eddy Kuan
+  pic: 3
+  position: dApp Developer
+  social:
+    - title: twitter
+      url: #
+    - title: linkedin
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

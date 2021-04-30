@@ -265,6 +265,12 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 
+.scrim {
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 5rem rgba(0, 0, 0.5);
+}
+
 header {
     text-align: center;
     color: #fff;

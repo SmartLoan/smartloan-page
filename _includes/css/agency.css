@@ -49,7 +49,7 @@ a.active {
 h1,
 h2,
 h3,
-h4,
+h4,f
 h5,
 h6 {
     text-transform: uppercase;
@@ -265,12 +265,6 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 
-.scrim {
-    border-radius: 50%;
-    background-color: rgba(0, 0, 0, 0.2);
-    box-shadow: 0 0 5rem rgba(0, 0, 0.5);
-}
-
 header {
     text-align: center;
     color: #fff;
@@ -287,6 +281,12 @@ header {
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
+}
+
+header .scrim {
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 5rem rgba(0, 0, 0.5);
 }
 
 header .intro-text .intro-lead-in {

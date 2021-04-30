@@ -318,7 +318,7 @@ header .intro-text .intro-heading {
         font-size: 40px;
         font-style: italic;
         line-height: 40px;
-        text-shadow: 0 0 0.5em black, 0 0 0.1em yellow;
+        text-shadow: 0 0 1em black, 0 0 0.1em yellow;
     }
 
     header .intro-text .intro-heading {

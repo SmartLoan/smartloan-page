@@ -362,6 +362,8 @@ section h3.section-subheading {
 
 .service-heading {
     margin: 15px 0;
+    color: #fff;
+    text-shadow: 1px 1px 1px #9b8663;
     text-transform: none;
 }
 

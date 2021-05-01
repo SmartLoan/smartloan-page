@@ -349,7 +349,7 @@ section h3.section-subheading {
     text-transform: none;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 18px;
-    line-height: 1.27;
+    line-height: 1.8;
     font-style: bold;
     font-weight: 400;
 }

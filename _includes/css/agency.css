@@ -676,6 +676,7 @@ section#contact {
 
 section#contact .section-heading {
     color: #fff;
+    text-shadow: 1px 1px 1px #9b8663;
 }
 
 section#contact .form-group {

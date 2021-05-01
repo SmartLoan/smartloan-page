@@ -14,11 +14,11 @@ people:
   position: Lead Researcher & Developer
   social:
     - title: youtube
-      url: #
-    - title: facebook
+      url: https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA
+    - title: resume
       url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/asvoriakuan/
 
 - name: Ian Munge
   pic: 2
@@ -29,7 +29,7 @@ people:
 
 - name: Eddy Kuan
   pic: 3
-  position: dApp Developer
+  position: Developer
   social:
     - title: twitter
       url: #

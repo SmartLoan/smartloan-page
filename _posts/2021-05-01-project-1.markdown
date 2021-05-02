@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2021-05-01
 img: sail.png
-thumbnail: sail.png
+thumbnail: sail.jpeg
 alt: image-alt
 project-date: May 2021
 client: Start Bootstrap

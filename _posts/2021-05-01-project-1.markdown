@@ -10,7 +10,7 @@ alt: image-alt
 project-date: May 2021
 client: Start Bootstrap
 category: Web Development
-description: PINE is the underlying token that makes SmartLoan operate. When Borrower wants to borrow 10k BUSD, 10k PINE will be minted into the accounts of lenders. The ownership of PINE token represent BUSD the lenders able to claim after the borrower's loan period. Interests will be allocated to PINE stake holders. Once the borrower paid their principal and interests, PINE will burnt according to the returned amount. To sum it up, PINE token is not a rocket to the Moon. It is simply a ship sailing on earth. For details, do check out the github repository at
+description: PINE is the underlying token that makes SmartLoan operate. When Borrower wants to borrow 10k BUSD, 10k PINE will be minted into the accounts of lenders. The ownership of PINE token represent BUSD the lenders able to claim after the borrower's loan period. Interests will be allocated to PINE stake holders. Once the borrower paid their principal and interests, PINE will burnt according to the returned amount. To sum it up, PINE token is not a rocket to the Moon. It is simply a ship sailing on earth. For details, do check out the github repository.
 github-link: https://github.com/SmartLoan/pineapple_token
 
 ---

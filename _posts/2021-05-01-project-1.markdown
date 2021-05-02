@@ -4,8 +4,8 @@ subtitle: The Moon is not our destination!
 layout: default
 modal-id: 1
 date: 2021-05-01
-img: mainAbout.png
-thumbnail: mainAbout.png
+img: sail.jpeg
+thumbnail: sail.jpeg
 alt: image-alt
 project-date: May 2021
 client: Start Bootstrap

@@ -1,6 +1,6 @@
 ---
 title: Best of Both Worlds
-subtitle: Permissionless <-> Permissioned Chains
+subtitle: Permissionless and Permissioned Chains
 layout: default
 modal-id: 4
 date: 2021-05-01

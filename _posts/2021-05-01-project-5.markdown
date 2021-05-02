@@ -1,11 +1,11 @@
 ---
-title: Funded by Public
-subtitle: Promoting Gratitude Economy
+title: Advancement Opportunities
+subtitle: For the average people
 layout: default
-modal-id: 3
+modal-id: 5
 date: 2021-05-01
-img: support.png
-thumbnail: support-thumbnail.png
+img: opportunity.png
+thumbnail: opportunity-thumbnail.png
 alt: image-alt
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 github-link: https://github.com/SmartLoan/pineapple_token

@@ -4,8 +4,8 @@ subtitle: The Moon is not our destination!
 layout: default
 modal-id: 1
 date: 2021-05-01
-img: sail.jpeg
-thumbnail: sail.jpeg
+img: sail.png
+thumbnail: sail.png
 alt: image-alt
 project-date: May 2021
 description: PINE is the underlying token that makes SmartLoan operates. One PINE token represent one BUSD, which is backed by same value of the reserved asset valued at one USD. When Investor trasfered BUSD into the contract, same amount of PINE token will be minted into his/her account. The BUSD in the contract account will work as the funding capital. When a borrower took up a loan, the contract will release the amount of BUSD accordingly to the borrower by input schedule. When the borrower pay the loan interest, the interest will be distributed to the PINE token stake holders. When the borrower repay the principal, the floating PINE token will be burnt. 

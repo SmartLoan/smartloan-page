@@ -7,7 +7,7 @@ date: 2021-05-01
 img: opportunity.png
 thumbnail: opportunity-thumbnail.png
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Scholarships, sponsorship and grant awards that are available mostly reserved for the young, elite and students in under-developed countries. This has put a limit to every average people who intend to learn, serve and contribute. As most average people does not received any free support, their desire for accademic advancement lies on their willingness to sacrifice their comfort zone, by taking up an education loan, hoping for greater career advancement in their future after graduate.  <br><br>If an average person wants to serve as a doctor in a remote village where most of the villagers are in lower income group, he/she will be discouraged to do so after knowing the cost of getting a medical practitioner degree with traditional education loan. <br><br>With SmartLoan Dynamic Interest Rate, an average graduate has a freedom of his/her career choice. Whether he/she wants to serve the community or seeking for greater profitable career. The interest rate is calculated based on the borrower's gross income. If he/she decided to work for charitable non-profit organization, or work in a remote villages to server the underserved people, they will pay less interest compare to those who choose to walk in the for-profit path. <br><br>To learn more about how SmartLoan help the average people, do visit our Github repository.
 github-link: https://github.com/SmartLoan/pineapple_token
 
 ---

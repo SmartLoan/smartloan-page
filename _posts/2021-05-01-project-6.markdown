@@ -7,7 +7,7 @@ date: 2021-05-01
 img: research.png
 thumbnail: research-thumbnail.png
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Free education is good, as for the 40 countries with free graduate school tuition, for example in Germany. Although the system were praised worldwide to be a success, it cannot deny the fact that more than two-thirds of the annual funds invested in research came from corporations. Companies either conduct research themselves or collaborate with research partners. Researchers are supported not only with job offers, but also with scholarships and prizes from corporate foundations. Although corporate funding are well received, such approach might raise a conflict of interest between corporate benefits vs scientific integrity. Corporate interests sometimes can drive research agendas away, therefore, SmartLoan seeks to promote independent research as a counter balance to promote healthy competition, strengthen theoritical defence and create diversify opinions in the researched subject.  <br><br>To learn more about the issue, check out our repository at github.
 github-link: https://github.com/SmartLoan/pineapple_token
 
 ---

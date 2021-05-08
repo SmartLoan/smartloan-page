@@ -7,7 +7,7 @@ date: 2021-05-01
 img: connect.png
 thumbnail: connect-thumbnail.png
 alt: image-alt
-description: Binance Smart Chain (BSC) link to Hyperledger.  
+description: Investors looking for some form of security when it comes to collateral-free loan. While public permissionless blockchain provided easy access and reliable ecosystem for financial transaction, permissioned blockchain added a layer of security by providing verifiable indentity to validate the borrowers' identity and qualification. With verifiable credentials and data, a borrower unable to cheat the system, thus, gross income based interest rate on education loan made possible to be implemented in the worldwide ecosystem! SmartLoan is the prototype of that will be implemented in these ecosystem. To learn more, visit our Github repository.
 github-link: https://github.com/SmartLoan/pineapple_token
 
 ---

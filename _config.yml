@@ -43,7 +43,7 @@ social:
   - title: comments-o
     url: https://discord.gg/aJXAsgW3
   - title: github
-    url: https://github.com/SmartLoan/pineapple_token
+    url: https://github.com/SmartLoan
 
 # Build settings
 markdown: kramdown

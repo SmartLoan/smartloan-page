@@ -8,6 +8,6 @@ img: support.png
 thumbnail: support-thumbnail.png
 alt: image-alt
 description: Does generosity begat generosity? According to a research by <a href="https://www.nber.org/system/files/working_papers/w17861/w17861.pdf" target="_blank">J Meer and Rosen</a>, those who received any form of scholarship had lower probability of giving back by 0.7%. Although the number is very insignificant, it does indicates that the ineffectiveness of scholarship to promote generosity and giving-back culture amongs those who benefited from the program.</br></br>While the reseaon behind the ungratitude behaviour migth be due to the fact that most scholarships were offered by wealthy organizations that the receipient do not feel resentful without providing back the generosity to them. SmartLoan being funded by the general public, reminds the receipient of the loan, to pay back their loan with interest, where the interest rate is tied to the success of the recipient's future career. And the loan is forgiven when unfortunate events happened. SmartLoan attempt to enforce the gratitude economy through its dynamic interest rate calculation. To learn more, do visit our Github repository. 
-github-link: https://github.com/SmartLoan/pineapple_token
+github-link: https://github.com/SmartLoan
 
 ---

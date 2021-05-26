@@ -252,8 +252,8 @@ fieldset[disabled] .btn-xl.active {
         transition: all .3s;
     }
 
-    .navbar-brand.page-scroll {
-        padding: 2px 1px 2px;
+    .navbar-brand {
+        padding: 2px 1px 2px 1px;
     }
 
     .navbar-default .navbar-nav>.active>a {
